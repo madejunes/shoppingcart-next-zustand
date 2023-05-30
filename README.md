@@ -1,3 +1,11 @@
+another learning project
+
+reference:
+- https://javascript.plainenglish.io/building-a-shopping-cart-with-zustand-a-practical-guide-to-react-state-management-with-typescript-73ec10c66fb7
+- https://github.com/ljaviertovar/shopping-cart-nextjs-zustand
+
+--- 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
