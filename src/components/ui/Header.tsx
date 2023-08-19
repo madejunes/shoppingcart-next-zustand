@@ -1,5 +1,5 @@
 import useCartStatusFromStore from "@/hooks/useCartStatusFromStore";
-import { useCartStore } from "@/store/useCartStore";
+import { useCartStore } from "@/stores/useCartStore";
 import { FiShoppingCart } from "react-icons/fi";
 
 type HeaderProps = {
