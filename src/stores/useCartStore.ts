@@ -18,6 +18,7 @@ const INITIAL_STATE: State = {
   totalPrice: 0,
 };
 
+// argument set dan get untuk set dan get state dari store
 export const useCartStore = create<State & Actions>((set, get) => ({
   cart: INITIAL_STATE.cart,
   totalItems: INITIAL_STATE.totalItems,
